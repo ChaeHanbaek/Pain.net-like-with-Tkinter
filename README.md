@@ -1,5 +1,5 @@
 # <h1>Paint.net-like-with-Tkinter</h1>
-<h2>Python, Tkinter, Opencv2 and Pillow를 사용해 Paint.net(Photo Shop같은 사진 편집프로그램)을 모방하였습니다.</h2>
+Python, Tkinter, Opencv2 and Pillow를 사용해 Paint.net(Photo Shop같은 사진 편집프로그램)을 모방하였습니다.
 <br>
 <h3>구현된 기능</h3>
 <h3>Canvas Tool</h3>
