@@ -1,5 +1,9 @@
 <h1>Paint.net-like-with-Tkinter</h1>
 Python, Tkinter, Opencv2 and Pillow를 사용해 Paint.net(Photo Shop같은 사진 편집프로그램)을 모방하였습니다.
+<h2>개발 환경(Development Environment)</h2>
+에디터(Editor) : Visual Studio Code
+언어(Language) : Python
+모듈(Module) : tkinter, tkinter.filedialog, tkinter.simpledialog, tkinter.font, tkinter.ttk, tkinter.colorchooser, numpy, cv2, PIL(Image, ImageOps , ImageGrab), time
 <br>
 <h3>구동 모습</h3>
 <img src="https://user-images.githubusercontent.com/101073987/195247272-656c95c2-e46b-4737-a011-597c5f5ec16c.png" alt="paint.net-like">
