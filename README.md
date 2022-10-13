@@ -46,7 +46,9 @@ tkinter toplevel창을 움직인 곳에 선택한 이미지 잘라서 붙이는 
 이미지를 흑백 톤으로 보정
 <hr>
 <h3>ETC</h3>
-<h4>Rotate Image</h4>
+<h4>이미지 확대/축소</h4>
+전체 이미지 0~4사이로 확대/축소
+<h4>이미지 회전(Rotate Image)</h4>
 이미지 회전 (0~360)
-<h4>Flip Image</h4>
-이미지 상하대칭, 
+<h4>이미지 대칭(Flip Image)</h4>
+이미지 상하대칭, 좌우대칭
