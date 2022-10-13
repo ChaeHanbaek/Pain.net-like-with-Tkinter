@@ -5,6 +5,9 @@ Python, Tkinter, Opencv2 and Pillow를 사용해 Paint.net(Photo Shop같은 사�
 언어(Language) : Python
 모듈(Module) : tkinter, tkinter.filedialog, tkinter.simpledialog, tkinter.font, tkinter.ttk, tkinter.colorchooser, numpy, cv2, PIL(Image, ImageOps , ImageGrab), time
 <br>
+<h2>Icon 출처(Icon Reference)</h2>
+paint.net documentation
+https://www.getpaint.net/doc/latest/index.html
 <h2>구동 모습</h2>
 <img src="https://user-images.githubusercontent.com/101073987/195247272-656c95c2-e46b-4737-a011-597c5f5ec16c.png" alt="paint.net-like">
 <br>
