@@ -5,10 +5,10 @@ Python, Tkinter, Opencv2 and Pillow를 사용해 Paint.net(Photo Shop같은 사�
 언어(Language) : Python
 모듈(Module) : tkinter, tkinter.filedialog, tkinter.simpledialog, tkinter.font, tkinter.ttk, tkinter.colorchooser, numpy, cv2, PIL(Image, ImageOps , ImageGrab), time
 <br>
-<h3>구동 모습</h3>
+<h2>구동 모습</h2>
 <img src="https://user-images.githubusercontent.com/101073987/195247272-656c95c2-e46b-4737-a011-597c5f5ec16c.png" alt="paint.net-like">
 <br>
-<h3>구현된 기능</h3>
+<h2>구현된 기능</h2>
 <h3>캔버스 도구(Canvas Tool)</h3>
 <img src="https://user-images.githubusercontent.com/101073987/195246328-1cb3d5fc-ffec-4960-894c-24fd6870f2e9.png" alt="canvas tool">
 <hr>
