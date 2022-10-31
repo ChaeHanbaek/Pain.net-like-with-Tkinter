@@ -1,9 +1,9 @@
 <h1>Paint.net-like-with-Tkinter</h1>
 Python, Tkinter, Opencv2 and Pillow를 사용해 Paint.net(Photo Shop같은 사진 편집프로그램)을 모방하였습니다.
 <h2>Patchlog</h2>
-v1.0: Release
-V1.1: 코드 
-v1.2: Visual Studio Code icon image 상대경로 패치
+v1.0: Release<br>
+V1.1: 코드 <br>
+v1.2: Visual Studio Code icon image 상대경로 패치<br>
 <h2>개발 환경(Development Environment)</h2>
 에디터(Editor) : Visual Studio Code
 언어(Language) : Python
